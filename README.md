@@ -1,1 +1,1 @@
-jupyter file added
+jupyter file added as project
